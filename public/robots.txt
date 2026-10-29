@@ -1,0 +1,8 @@
+# Robots.txt for Developer Network Proxy
+# Author: Faysal Alibrahim (https://github.com/FAYSAL-Q8)
+
+User-agent: *
+Allow: /
+
+# Direct crawlers to sitemap
+Sitemap: /sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "Developer Network Proxy",
+  "description": "Secure, full-stack HTTP proxy interceptor with stealth browser simulation, realistic header manipulation, and parallel traffic replay sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
